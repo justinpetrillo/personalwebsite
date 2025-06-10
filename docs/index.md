@@ -131,7 +131,7 @@ Co-designed a multi-agency strategy for reintegrating deported migrants in Hondu
 
 **Role:** Data Analytics Manager  
 **Organization:** [General Assembly](https://generalassemb.ly)  
-**Duration:** 6 months
+**Dates:** Aug 2011 – Feb 2012
 
 **Overview:**  
 Built SQL databases and Python tooling to track student performance and class metrics with a dashboard interface for leadership, developed an email retargeting model and class recommendation engine to improve engagement, and performed A/B testing on campaigns and pricing analyses to support business-line expansion.
@@ -144,7 +144,7 @@ Built SQL databases and Python tooling to track student performance and class me
 
 ## 🔬 Research Experience
 
-Justin’s research background integrates computational biology, epidemiology, cultural neuroscience, and environmental modeling.
+Justin’s research background integrates computational biology, epidemiology, cultural neuroscience, and environmental modeling.  Each of the following experiences is approximately 1 Quarter of Full Time or Full-Time Equivalent (FTE) experience.
 
 ### CUNY Research Foundation – Research Assistant (Computational Biology)
 *Dec 2017 – Aug 2018, New York, NY*  
