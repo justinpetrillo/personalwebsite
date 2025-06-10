@@ -73,7 +73,7 @@ Invented and deployed a multimodal compression algorithm to create personalized 
 
 Published analytical and mathematical explainers, especially a 6-part tutorial in data science at [Math Academy Tutoring](https://mathacademytutoring.com/blog/author/jpetrillo).
 
-Creator and lead writer for 5-part series on the application of GenAI to the full market research lifecycle at [AI for Market Research] (https://shapiroraj.com/ai-for-market-research-part-1/).
+Creator and lead writer for 5-part series on the application of GenAI to the full market research lifecycle at [AI for Market Research](https://shapiroraj.com/ai-for-market-research-part-1/).
 
 [🔝 Back to Top](#justin-petrillo--work-background-research--portfolio)
 
