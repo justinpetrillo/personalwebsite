@@ -1,31 +1,30 @@
-**JUSTIN PETRILLO – COMPANION PORTFOLIO**
+# Justin Petrillo – Work Background, Research, & Portfolio
 
-This document supplements the core resume by providing deeper insight into select projects, ventures, and intellectual contributions.
-
----
-
-### **TABLE OF CONTENTS**
-
-* [Integrated Overview: Avatar Systems + Compression](#integrated-overview-avatar-systems--compression)
-* [GenAI Compression System for Multimodal Data Ingestion](#genai-compression-system-for-multimodal-data-ingestion)
-* [GenAI Avatar System for HCP and Patient Personas](#genai-avatar-system-for-hcp-and-patient-personas)
-* [Product-Aligned Data Science in B2B Marketing](#product-aligned-data-science-in-b2b-marketing)
-* [Mimely Digital Therapeutics](#mimely-digital-therapeutics)
-* [ALMA Reintegration Strategy](#alma-reintegration-strategy)
-* [Research Training & Methods](#research-training--methods)
-* [Additional Links](#additional-links)
+📍 Cambridge, MA | 📧 jjpetrillo@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/jjpetrillo)  
+🌐 [Portfolio Homepage](https://justinpetrillo.github.io/personalwebsite)
 
 ---
 
-### **INTEGRATED OVERVIEW: AVATAR SYSTEMS + COMPRESSION**
-
-From 2023–2025, I led the development of an integrated LLM-based system to power life sciences insight agents. This included a **modular compression algorithm** to ingest multimodal content (e.g., surveys, transcripts, online sources) and a downstream **avatar creation pipeline** that allowed clients to interact with stakeholder personas in natural language.
-
-These systems were used to simulate HCP and patient perspectives, enable message testing, and build client empathy through immersive, conversational research. I was directly responsible for the full production cycle—compression logic, persona segmentation, prompt design, and delivery of working avatars to clients.
+## 📑 Table of Contents
+- [🔍 Featured Projects](#-featured-projects)
+- [✍️ Technical Writing](#-technical-writing)
+- [💻 Code Projects](#-code-projects)
+- [🧠 Work Background](#-work-background)
+- [🔬 Research Experience](#-research-experience)
 
 ---
+
+## 🔍 Featured Projects
+
+### GenAI Avatar Compression & Research Agents
+Invented and deployed a multimodal compression algorithm to create personalized avatars for research and message testing. These avatars helped clients simulate patient and HCP personas with accurate empathy and narrative nuance, grounded in internet data, transcripts, segmentation, and survey results.
+
+- Achieved 95% size reduction with <5% semantic loss
+- Delivered client-ready avatars for empathy workshops and GenAI research
+- Created persona-specific data pipelines supporting compressed ingestion, labeling, and dynamic avatar interaction
 
 ### **VISUAL WORKFLOW: GENAI CONTENT TO AVATAR DELIVERY**
+
 
 ```
            +----------------------------+
@@ -66,94 +65,109 @@ These systems were used to simulate HCP and patient perspectives, enable message
            +-------------------------+
 ```
 
----
-
-### **GENAI COMPRESSION SYSTEM FOR MULTIMODAL DATA INGESTION**
-
-**Role:** GenAI Solutions & Knowledge Engineering Manager
-**Organization:** Shapiro+Raj
-**Dates:** Sept 2024 – May 2025
-
-**Overview:**
-Designed and implemented a highly tunable compression algorithm that enabled ingestion of diverse content formats—including internet data (articles, podcasts, videos), social listening data, transcripts, reports, and surveys—into LLM contexts. The algorithm supported variable compression targets to balance token efficiency and information retention, achieving 95% size reduction with under 5% semantic drift.
-
-**Technologies:** Python (Flask, Pydantic), web scraping, data parsing, token optimization, OpenAI API
-
-**Outcome:** Served as the core preprocessing engine for internal LLM applications, including avatar systems and knowledge agents, drastically improving scalability and consistency of insight extraction.
+[🔝 Back to Top](#justin-petrillo--work-background-research--portfolio)
 
 ---
 
-### **GENAI AVATAR SYSTEM FOR HCP AND PATIENT PERSONAS**
+## ✍️ Technical Writing
 
-**Role:** R\&D Lead
-**Organization:** Shapiro+Raj
-**Dates:** 2023 – 2025
+Published analytical and mathematical explainers, especially a 6-part tutorial in data science at [Math Academy Tutoring](https://mathacademytutoring.com/blog/author/jpetrillo).
 
-**Overview:**
-Created avatar-based expert systems that emulated HCP and patient perspectives for use in message testing, empathy mapping, and emotional response simulation. Generated data-files using compressed and segmented qualitative inputs (e.g., surveys, interviews, internet research), uploaded to an internal avatar builder. Refined system instructions and tested dialog behavior for consistency and realism. Personally delivered finished avatars to clients.
+Creator and lead writer for 5-part series on the application of GenAI to the full market research lifecycle at [AI for Market Research] (https://shapiroraj.com/ai-for-market-research-part-1/).
 
-**Technologies:** Python, segmentation, LLM prompt chaining, avatar instruction tuning, qualitative synthesis
-
-**Outcome:** Enabled pharma clients to engage with simulated stakeholders for message alignment, scenario testing, and strategic thought partnership.
+[🔝 Back to Top](#justin-petrillo--work-background-research--portfolio)
 
 ---
 
-### **PRODUCT-ALIGNED DATA SCIENCE IN B2B MARKETING**
+## 💻 Code Projects
 
-**Role:** Sr. Technical Business Analyst
-**Organization:** Wayfair
-**Dates:** May 2021 – Mar 2022
+Explore code samples, tools, and pipelines on [GitHub](https://github.com/justinpetrillo).
 
-**Overview:**
-Developed clustering and predictive models to optimize marketing retargeting strategies. Created BigQuery-powered dashboards and automated daily bid recommendations.
+[🔝 Back to Top](#justin-petrillo--work-background-research--portfolio)
 
-**Technologies:** Python, SQL, BigQuery, Excel, Connected Sheets, Looker
+---
 
-**Outcome:** Generated over \$1M in incremental revenue and reduced campaign waste via precision targeting.
+## 🧠 Work Background
+
+Justin’s background includes founding two innovation-focused startups—one in therapeutic technology and one in reintegration policy—as well as early experience scaling General Assembly’s data infrastructure during a high-growth phase. These roles build upon his core career in analytics, data science, and GenAI solution development across Wayfair, Shapiro+Raj, and Cascade Insights.
+
+He has led initiatives involving:
+
+* Predictive and behavioral modeling for marketing performance
+* Full-stack ML systems and LLM-based research agents
+* Statistical analysis and segmentation of qualitative/quantitative datasets
+* Translation of exploratory R\&D into enterprise-ready tools
 
 ---
 
 ### **MIMELY DIGITAL THERAPEUTICS**
 
-**Role:** Founder & CEO
-**Organization:** [Mimely, Inc.](https://www.mimely.com)
+**Role:** Founder & CEO  
+**Organization:** [Mimely, Inc.](https://www.mimely.com)  
 **Dates:** Feb 2012 – Aug 2015
 
-**Overview:**
+**Overview:**  
 Built and patented a digital platform for mental health intervention using micro-interactions to scaffold therapeutic dialogue. Conducted user research, defined architecture, and piloted system with initial cohorts.
 
-**Technologies:** UX prototyping, behavioral health metrics, IP design
-
+**Technologies:** UX prototyping, behavioral health metrics, IP design  
 **Outcome:** Secured [trademark for "miming"](https://tsdr.uspto.gov/#caseNumber=86277540&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch) and ["mimely"](https://tsdr.uspto.gov/#caseNumber=86277535&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch); led to early-stage clinical collaboration discussions.
 
 ---
 
 ### **ALMA REINTEGRATION STRATEGY**
 
-**Role:** Program Development Lead
-**Organization:** [ALMA Foundation](https://www.foundationalma.org)
+**Role:** Program Development Lead  
+**Organization:** [ALMA Foundation](https://www.foundationalma.org)  
 **Dates:** Mar 2018 – Mar 2020
 
-**Overview:**
+**Overview:**  
 Co-designed a multi-agency strategy for reintegrating deported migrants in Honduras, using systems thinking to align service delivery models.
 
 **Outcome:** Developed policy framework adopted by regional nonprofits and consulted on national rollout planning.
 
 ---
 
-### **RESEARCH TRAINING & METHODS**
+### **General Assembly Scaling**
 
-**Institutions:** Yale CORE, CUNY, Northwestern
+**Role:** Data Analytics Manager  
+**Organization:** [General Assembly](https://generalassemb.ly)  
+**Duration:** 6 months
 
-* At Yale: Analyzed PM2.5 exposure and health outcomes using epidemiological models.
-* At CUNY: Developed tree-space models for phylogenetic inference in R.
-* At Northwestern: Contributed to a simulation study of cultural transmission and adaptive reasoning.
+**Overview:**  
+Built SQL databases and Python tooling to track student performance and class metrics with a dashboard interface for leadership, developed an email retargeting model and class recommendation engine to improve engagement, and performed A/B testing on campaigns and pricing analyses to support business-line expansion.
 
-**Methods Used:** Regression modeling, A/B testing, survey design, clustering, hypothesis testing, simulation modeling, qualitative coding
+**Outcome:** Set the data foundations to allow scaling to new locations.
+
+[🔝 Back to Top](#justin-petrillo--work-background-research--portfolio)
 
 ---
 
-### **ADDITIONAL LINKS**
+## 🔬 Research Experience
 
-* **Technical Instructional Content (Data Science):** [mathacademytutoring.com/blog/author/jpetrillo](https://mathacademytutoring.com/blog/author/jpetrillo)
-* **Project Excerpts & Code:** [github.com/justinpetrillo](https://github.com/justinpetrillo)
+Justin’s research background integrates computational biology, epidemiology, cultural neuroscience, and environmental modeling.
+
+### CUNY Research Foundation – Research Assistant (Computational Biology)
+*Dec 2017 – Aug 2018, New York, NY*  
+Engineered algorithms in Python and Java for hyperbolic modeling of phylogenetic tree-space distributions using KDE. Supported TreeSpace Working Group on biological data analysis.
+
+### Yale CORE (Center for Outcomes Research & Evaluation) – Statistical Consultant
+*Jun 2010 – Aug 2010, New Haven, CT*  
+Analyzed hospital claims data using SQL and SAS to identify cost-efficient heart failure treatments. Contributions supported NIH-funded cardiovascular outcomes research.
+
+### Cultural Neuroscience Lab, Northwestern University – Research Assistant
+*Jun 2009 – Aug 2009, Evanston, IL*  
+Performed SPSS-based factor analysis on gene-culture datasets. Work contributed to NSF-funded research on DRD4 polymorphisms and the evolution of sociality under pathogen stress.
+
+### NOAA Geophysical Fluid Dynamics Lab – Research Intern (Part-Time)
+*Sep 2006 – Aug 2007, Princeton, NJ*  
+Modeled El Niño frequencies and CO₂-induced drought patterns in the African Sahel using MATLAB and R.
+
+### EOHSI, Rutgers University – Research Assistant
+*Jun 2006 – Aug 2006, New Brunswick, NJ*  
+Used STATA to model PM2.5 air pollution impacts on urban populations. Contributed findings to EPA environmental justice initiatives.
+
+### NYMEX Trading Firm – Independent Contractor
+*Jun 2007 – Aug 2007, New York, NY*  
+Developed an oil futures arbitrage algorithm in BASIC based on historical oil prices and climate trends.
+
+[🔝 Back to Top](#justin-petrillo--work-background-research--portfolio)
